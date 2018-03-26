@@ -1,2 +1,2 @@
 # AspNetCoreDemo
-Source code used to build the as.net core using MySql and it's used for build .net web site in Ubuntu.
+Source code used to build the asp.net core using MySql in Ubuntu.
